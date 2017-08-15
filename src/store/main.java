@@ -1,4 +1,4 @@
-package myPackage;
+package store;
 
 import java.util.Scanner;
 import java.util.Random;

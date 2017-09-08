@@ -1,4 +1,4 @@
-package Java.First;
+package Java.FirstSecond;
 import java.util.Scanner;
 
 public class Memojang {

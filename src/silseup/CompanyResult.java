@@ -1,3 +1,5 @@
+package silseup;
+
 import java.util.Scanner;
 
 public class CompanyResult {

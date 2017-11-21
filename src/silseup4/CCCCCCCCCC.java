@@ -17,8 +17,5 @@ public class CCCCCCCCCC {
 		ob2.view1();//3번쨰 메쏘드 호출
 		
 		ob2.view2();//2번째 메소드 호출
-		
-		
-		
 	}
 }

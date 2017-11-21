@@ -1,17 +1,17 @@
 package Java.ninth;
 
 class Student {
-	int noOfTest = 3;
+	final static int noOfTest = 3;
 	String name;
 	int[] score;
 	String grade;
 	
-	Student(){
+	Student(){//점수,학점   초기화
 		score = new int[3];
 		grade = "";
 	}
 	
-	Student(String name){
+	Student(String name){//점수,학점,이름   초기화
 		this();
 		this.name = name;
 	}

@@ -45,7 +45,6 @@ public class FindAreas {
 		f = r;
 		System.out.println(f.area());
 		f = t;
-		System.out.println(f.area());
+		System.out.println(f.area());//★추상클래스도 가리키는 값에 따라 하는 형태가 달라지는 다형성 가능
 	}
-
 }

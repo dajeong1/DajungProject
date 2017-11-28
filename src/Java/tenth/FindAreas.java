@@ -60,7 +60,8 @@ public class FindAreas {
 		f = t;
 		System.out.println(f.area());//★클래스,추상클래스,인터페이스 모두  가리키는 값에 따라 하는 형태가 달라지는 다형성이 가능
 		
-		Figure obj = new Rectangle(3, 5);
+		
+		Figure obj = new Rectangle(3, 5);//인터페이스 Figure형 변수에 Rectangle 객체 생성
 		System.out.println(obj.area());
 	}
 }
